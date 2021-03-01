@@ -44,6 +44,11 @@
     width: 66%;
 }
 
+#content2{
+    padding: 20px 10px 30px;
+    width: 66%;
+}
+
 .mæssing1{
     padding-left: 6%;
     width:300px
@@ -52,6 +57,11 @@
 .trompet1{
     padding-left: 6%;
     width:300px
+}
+
+.trombone1{
+    width: 340px;
+    padding-top: 150px;
 }
 
 mulig baggrundsfarve #DDD6F3
